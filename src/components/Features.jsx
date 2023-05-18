@@ -23,7 +23,7 @@ const Features = () => {
   ]
 
   return (
-    <div className='section__margin flex flex-col lg:flex-row justify-between mt-24 gap-12'>
+    <div className='section__margin flex flex-col lg:flex-row justify-between mt-24 gap-12' id='features'>
       <div className='w-full lg:max-w-[450px] flex flex-col gap-4'>
         <h1 className='gradient__text text-3xl font-bold'>The Future is now, and you just need to realize it. Step into the Future Today and make it happen!</h1>
         <p className='gradient__text font-semibold text-base'>Request Early Access to get Started</p>

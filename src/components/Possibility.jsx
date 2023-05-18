@@ -3,7 +3,7 @@ import VRImg from '../assets/possibility.png'
 
 const Possibility = () => {
   return (
-    <div className='section__margin flex flex-col md:flex-row gap-20 md:gap-4 justify-center items-center mt-20'>
+    <div className='section__margin flex flex-col md:flex-row gap-20 md:gap-4 justify-center items-center mt-20' id='possibility'>
       <img src={VRImg} className='max-w-[350px] md:max-w-[450px] lg:max-w-[500px] xl:max-w-[600px]' alt="VR Image" />
       <div className='text-white flex flex-col gap-4 justify-center items-start'>
         <h2 className='text-[#64d3ff] text-xl'>Request Early Access to get Started</h2>

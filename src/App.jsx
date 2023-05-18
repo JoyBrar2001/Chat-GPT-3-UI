@@ -6,6 +6,8 @@ import WhatGPT3 from "./components/WhatGPT3"
 import Features from "./components/Features"
 import Possibility from "./components/Possibility"
 import CTA from "./components/CTA"
+import Blog from "./components/Blog"
+import Footer from "./components/Footer"
 
 function App() {
   return (
@@ -19,6 +21,8 @@ function App() {
       <Features />
       <Possibility />
       <CTA />
+      <Blog />
+      <Footer />
     </div>
   )
 }

@@ -6,7 +6,7 @@ const NavbarMenu = () => (
   <>
     <p className='mx-4 my-2'><a href="#home">Home</a></p>
     <p className='mx-4 my-2'><a href="#wgpt3">What is GPT3?</a></p>
-    <p className='mx-4 my-2' my-2><a href="#possibility">Open AI</a></p>
+    <p className='mx-4 my-2'><a href="#possibility">Open AI</a></p>
     <p className='mx-4 my-2'><a href="#features">Case Studies</a></p>
     <p className='mx-4 my-2'><a href="#Blog">Library</a></p>
   </>

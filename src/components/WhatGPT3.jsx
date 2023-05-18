@@ -3,7 +3,7 @@ import Feature from './Feature'
 
 const WhatGPT3 = () => {
   return (
-    <div className='gpt3__whatgpt3 section__margin section__padding py-12' id="whpt3">
+    <div className='gpt3__whatgpt3 section__margin section__padding py-12' id="wgpt3">
       <div className='flex flex-col w-full'>
         <Feature title='What is GPT-3 ?' flex='row' text='We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.' />
         
