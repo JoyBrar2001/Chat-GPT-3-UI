@@ -3,9 +3,9 @@ import Feature from './Feature'
 
 const WhatGPT3 = () => {
   return (
-    <div className='gpt3__whatgpt3 section__margin section__padding pt-12' id="whpt3">
+    <div className='gpt3__whatgpt3 section__margin section__padding py-12' id="whpt3">
       <div className='flex flex-col w-full'>
-        <Feature title='What is GPT-3 ?' text='We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.' />
+        <Feature title='What is GPT-3 ?' flex='row' text='We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by.' />
         
         <div className='flex flex-row gap-16 justify-between items-center w-full mt-16 mb-8'>
             <h1 className='gradient__text font-bold text-4xl'>Possibilities are beyond your imagination</h1>

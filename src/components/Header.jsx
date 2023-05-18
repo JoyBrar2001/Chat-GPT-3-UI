@@ -4,7 +4,7 @@ import ai from '../assets/ai.png'
 
 const Header = () => {
   return (
-    <div className='flex flex-col lg:flex-row section__padding mt-0 lg:mt-[-3rem]'>
+    <div className='flex flex-col lg:flex-row section__padding mt-5 lg:mt-2'>
         <div className='flex flex-1 justify-center items-start flex-col mr-20 tracking-tight'>
             <h1 className='text-4xl lg:text-7xl font-bold gradient__text'>Let's Build something amazing with Chat GPT Open AI</h1>
             <p className='text-[#81AFDD] font-[20px]'>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
